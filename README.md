@@ -1,5 +1,2 @@
 ## Olá! Eu o Weverton Rodrigues
-
-- Estudante de Engenharia de Software;
-- Estudando C;
-
+Estudante de Engenharia de Software - UnB Gama;
