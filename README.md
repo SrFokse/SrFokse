@@ -1,2 +1,2 @@
-## Olá!
-# apenas um estudante de Engenharia de Software
+Estudante de Engenharia de Software na UnB Gama.
+- aprendendo C;
