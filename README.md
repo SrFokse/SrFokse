@@ -1,2 +1,2 @@
 ## Olá!
-Estudante de Engenharia de Software - UnB Gama;
+um estudante de Engenharia de Software - UnB Gama;
