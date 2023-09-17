@@ -1,5 +1,7 @@
-### Olá, eu sou o Weverton Rodrigues!
-Estudante de Engenharia de Software
+<div align="center">
+  <h3>Olá, eu sou o Weverton Rodrigues!</h3>
+  <h5>Estudante de Engenharia de Software</h5>
+</div>
 
 ---
 
