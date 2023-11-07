@@ -7,7 +7,7 @@
 
 <p align="center">
   <img align="center" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SrFokse&hide_title=true&show_icons=true&count_private=true&theme=date_night&hide_border=true&bg_color=00000000"> 
-  <img align="center" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SrFokse&layout=compact&hide_border=true&custom_title=Linguagens&hide=html,css,javascript&theme=date_night&bg_color=00000000">
+  <img align="center" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SrFokse&layout=compact&hide_border=true&custom_title=linguagens mais usadas&hide=html,css,javascript&theme=date_night&bg_color=00000000">
 </p>
 
 ---
