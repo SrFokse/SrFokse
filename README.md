@@ -1,7 +1,9 @@
-<div align="center">
-  <h3>Olá, eu sou o Weverton Rodrigues!</h3>
-  <h5>Estudante de Engenharia de Software</h5>
-</div>
+<h3>Olá, eu sou o Weverton Rodrigues!</h3>
+<p>
+  - Estudante de Engenharia de Software na Universidade de Brasília (UnB - FGA)<br>
+  - Inclinado ao Desenvolvimento Backend<br>
+  - Interesse em explorar a interação da tecnologia com imagens e áudio
+</p>
 
 ---
 
